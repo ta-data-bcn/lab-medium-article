@@ -25,7 +25,7 @@ Talk about your experience presenting your project in front of a non-technical a
 
 ## Guidelines
 Steps:
-1) Take a look at the examples below. 
+1) Read some of the articles below to get an idea on how to write an article. 
 2) Decide the focus of your article.
 3) Write!
 
